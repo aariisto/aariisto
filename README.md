@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Je m'appelle Yannel, passionné par les technologies de développement et la création de solutions innovantes.
 - 🎓 &nbsp; Étudiant en 3ème année de BUT à l'IUT de Villetaneuse.
-- 🔍 &nbsp; **ACTUELLEMENT À LA RECHERCHE D'UNE ALTERNANCE POUR SEPTEMBRE 2025**
+- 🔍 &nbsp; **ACTUELLEMENT À LA RECHERCHE D'UNE ALTERNANCE POUR SEPTEMBRE 2026**
 
 ### 🛠 &nbsp;Mes compétences techniques
 
